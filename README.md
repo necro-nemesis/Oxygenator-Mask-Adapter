@@ -1,12 +1,21 @@
 # Ventilator-Mask-Adapter
 Open source design to convet a Hydro-Swim diving mask into a full face ventilator mask.
 
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 ## Assembly (Snap on inlet/outlet fitting and blow out valve snap in plug)
 
 ![](https://i.imgur.com/nI8OaUO.jpg)
 ![](https://i.imgur.com/mxR2WiK.png)
-
 
 The ventilator-mask-adapter has been deigned to be fitted to the Hydro-Swim Seaclear Vista Snorkeling Mask manufactured by Bestway www.bestwaycorp.com/support.
 
