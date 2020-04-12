@@ -1,5 +1,5 @@
-# Ventilator-Mask-Adapter
-Open source design to convet a Hydro-Swim diving mask into a full face ventilator mask.
+# Oxygenator-Mask-Adapter
+Open source design to convet a Hydro-Swim diving mask into a full face oxygenator mask.
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
@@ -17,7 +17,7 @@ International License][cc-by-sa].
 ![](https://i.imgur.com/nI8OaUO.jpg)
 ![](https://i.imgur.com/mxR2WiK.png)
 
-The ventilator-mask-adapter has been deigned to be fitted to the Hydro-Swim Seaclear Vista Snorkeling Mask manufactured by Bestway www.bestwaycorp.com/support.
+The oxygenator-mask-adapter has been deigned to be fitted to the Hydro-Swim Seaclear Vista Snorkeling Mask manufactured by Bestway www.bestwaycorp.com/support.
 
 I have provided .stl files for quick access to 3d printing. The slicer you use should only require minimal support material immediately under the two round hose connections. Also ensure that it is selected to add support only to areas in contact with the build plate. No internal support is required. Additionally I have provided STEP and SAT files for the ability to work on other adaptations. I have printed the files at various layer heights and have had a working part at .3mm layer height with a .4mm nozzel if time is critical although fitment is better at higher resolutions if you have the luxury of time to print them. .2mm layer height is a good compromise. It is recommended to use PLA due to it's inert nature.
 
